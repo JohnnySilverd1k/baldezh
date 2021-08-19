@@ -1,0 +1,13 @@
+@media (max-width:500px){
+    .gugle{
+        width: 100%;
+    }
+    .klass{
+        box-sizing: border-box;
+        width: 100%;
+    }
+    input{
+        box-sizing: border-box;
+        width: 90%;
+    }
+}
