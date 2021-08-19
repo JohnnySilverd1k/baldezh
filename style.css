@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+    padding: 0;
+    background-image: url(img/27yWSJnanYo.gif);
+    background-size: cover;
+}
+h1{
+    text-align:center;
+}
+.baldezh{
+    display: inline-block;
+    width:500px;
+    height: 500px;
+    background-color: brown;
+    transition: 3s;
+
+}
+
+.baldezh:hover{
+    /*transform: rotate(180deg); 
+    полицейский разворот на 180 */
+    /*
+ transform: translate(50px, 200px);
+ ну тупа двигаеца прыкол, убегает от курсора*/ 
+ /*
+transform: scale(0.3);
+масштабирование*/
+/*
+transform: skew(15deg, 30deg);
+Разъеб очка жоский*/
+/*
+transform: scale(2) rotate(180deg) skew(45deg, 90deg) ;
+*/
+opacity: 0.1488;
+}
+.klass{
+    text-align: center;
+    background-color: cornsilk;
+}
+input{
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    border: 2px solid rgb(0, 204, 255) ;
+    
+}
+button{
+    margin: 15px;
+    padding: 25px;
+}
+button:hover{
+    /* background-color: slateblue; */
+    background-image: url(img/Animated_fire_by_nevit.gif);
+    background-size: 102%;
+    cursor: pointer;
+    transition: 3s;
+    color:white;
+   
+}
+.kruto{
+    background-color: springgreen;
+    width: 400px;
+    height: 400px;
+    border: solid 40px;
+    border-color: violet;
+}
+
+#yaEbalsya{
+    background-color: steelblue ;
+    font-size: 40px;
+}
